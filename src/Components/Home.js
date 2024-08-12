@@ -28,7 +28,7 @@ are accessible near you</prev>
   <div className="row row-cols-1 row-cols-md-3 g-4">
   <div className="col">
     <div className="card h-100">
-      <img src="/MajorProject/pizza-store/image/home.jpg" height={300} className="card-img-top" alt="..."/>
+      <img src=" https://sneha159.github.io/majorpro/" height={300} className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Pizza Dish        </h5>
       
